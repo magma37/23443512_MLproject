@@ -16,3 +16,7 @@ Features (as listed by authors of the data set):
 - DIQ010 = If the Respondent is diabetic {Continuous}
 - LBXGLT = Respondent's Oral {Continuous}
 - LBXIN = Respondent's Blood Insulin Levels {Continuous} 
+
+Note: 
+RIAGENDR: 1 represents Male and 2 represents Female
+PAQ605: 1 represents that the respondent takes part in weekly moderate or vigorous-intensity physical activity & 2 represents that they do not

@@ -7,6 +7,8 @@ Dataset: National Health and Nutrition Health Survey 2013-2014 (NHANES) Age Pred
 
 Source: https://archive.ics.uci.edu/dataset/887/national+health+and+nutrition+health+survey+2013-2014+(nhanes)+age+prediction+subset 
 
+AI Declaration: None of the code used to develop this model was AI generated.
+
 To run this model: Simply download the CSV file found in the source link (if unable to access it from this repository) and change file path in 'ReadData.ipynb' to match the file path on your device for the CSV.
 
 Features (as listed by authors of the data set): 

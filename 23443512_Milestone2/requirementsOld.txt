@@ -1,0 +1,10 @@
+# Packages Used (from checkingPackageVersions.ipynb):
+pandas==3.0.6
+scikit-learn==1.9.1
+# the above was my messy attempt to find the package versions before trying the command on 6.11.26:
+#python -m venv .venv
+#follwed by test installing the packages numpy, pandas, matplotlib using:
+#python -m pip install numpy pandas matplotlib
+#finally made a new requirements file using:
+#python -m pip freeze > requirements.txt
+#and renamed this file as requirementsOld.txt so that VS Code doesn't get confused by 2 files with the same name
